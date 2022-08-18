@@ -3,11 +3,14 @@
 # y muñecas que saldrán en cada paquete a demanda. Cada payaso pesa 112 g y cada muñeca 75 g. Escribir un
 # programa que lea el número de payasos y muñecas vendidos en el último pedido y calcule el peso total del
 # paquete que será enviado.
+
 print("\nSistema de cálculo del peso de envíos de la juguetería")
 print("__________________________________________________________")
 
 payaso = 112
 muneca = 75
+
+# Lógica: comentario para saber si está funcionando mi GitHub
 
 cantPayasos = int(input("Ingrese la cantidad de payasos: "))
 cantMunecas = int(input("Ingrese la cantidad de muñecas: "))
